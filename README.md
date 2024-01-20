@@ -23,7 +23,7 @@ Steve Musyoka - http://github.com/Musyoka2020-eng
 
 MIT License
 
-Copyright (c) [2023] [Steve Musyoka](http://github.com/Musyoka2020-eng)
+Copyright (c) [2024] [Steve Musyoka](http://github.com/Musyoka2020-eng)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
