@@ -6,6 +6,8 @@
 
 - [Contributing](#contributors)
 
+- [Deploy](#deploy)
+
 - [License](#MITLicense)
 
 ## About <a name = "about"></a>
@@ -17,6 +19,11 @@ The simple calculator project aims to provide users with a straightforward and u
 ##  Contributors <a name = "contribution"></a>
 
 Steve Musyoka - http://github.com/Musyoka2020-eng
+
+##  Deploy <a name = "deploy"></a>
+
+https://musyoka2020-eng.github.io/basic-calculator/
+
 
 
 ## License <a name = "MITLicense"></a>
