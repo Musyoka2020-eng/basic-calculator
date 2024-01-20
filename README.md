@@ -4,7 +4,7 @@
 
 - [About](#about)
 
-- [Contributing](../CONTRIBUTING.md)
+- [Contributing](#contributors)
 
 ## About <a name = "about"></a>
 
@@ -14,4 +14,4 @@ The simple calculator project aims to provide users with a straightforward and u
 
 ##  Contributors <a name = "contribution"></a>
 
-Steve Musyoka (http://github.com/Musyoka2020-eng);
+Steve Musyoka - http://github.com/Musyoka2020-eng
