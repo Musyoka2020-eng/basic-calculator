@@ -1,3 +1,3 @@
-Basic Calculator
+  ##Basic Calculator
 
-Just a simple js calculator
+ 1.Just a simple js calculator
