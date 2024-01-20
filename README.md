@@ -1,2 +1,2 @@
 Basic Calculator
-''' Just a simple js calculator '''
+Just a simple js calculator
