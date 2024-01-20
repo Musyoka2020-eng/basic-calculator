@@ -6,7 +6,7 @@
 
 - [Contributing](#contributors)
 
-- [License](#MIT License)
+- [License](#MITLicense)
 
 ## About <a name = "about"></a>
 
@@ -19,11 +19,11 @@ The simple calculator project aims to provide users with a straightforward and u
 Steve Musyoka - http://github.com/Musyoka2020-eng
 
 
-## License <a name = "MIT License"></a>
+## License <a name = "MITLicense"></a>
 
 MIT License
 
-Copyright (c) [2023] [Steve Musyoka](http://github.com/SteveMusyoka
+Copyright (c) [2023] [Steve Musyoka](http://github.com/Musyoka2020-eng)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
